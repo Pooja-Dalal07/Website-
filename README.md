@@ -5,3 +5,4 @@ index.html(clone of amazon website).
 
 <img width="910" alt="image" src="https://github.com/user-attachments/assets/2f4f2fcc-31a7-4876-8a7a-517078167ea5">
 
+<img width="932" alt="image" src="https://github.com/user-attachments/assets/926e1952-1e22-4834-8988-2eaa77a8b8d9">
